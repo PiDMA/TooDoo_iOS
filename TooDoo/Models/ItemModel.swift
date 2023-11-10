@@ -6,6 +6,10 @@
 //
 
 import Foundation
+<<<<<<< HEAD
+//Data model for list items
+=======
+>>>>>>> main
 
 struct ItemModel: Identifiable{
     let id: String = UUID().uuidString 
